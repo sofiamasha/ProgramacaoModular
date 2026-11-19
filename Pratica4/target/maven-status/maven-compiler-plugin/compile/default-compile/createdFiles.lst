@@ -1,0 +1,11 @@
+Categoria.class
+Main.class
+Pedido.class
+PedidoInvalidoException.class
+PedidoAlimento.class
+ValorInvalidoException.class
+PedidoRoupa.class
+Entregavel.class
+PedidoEletronico.class
+Processavel.class
+StatusPedido.class
